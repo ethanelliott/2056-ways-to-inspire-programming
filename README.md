@@ -8,8 +8,7 @@
 
 # Presentation
 
-Available for download. See above.
-[Presentation](Presentation.pptx)
+[Download Here](Presentation.pptx)
 
 # Sample code
 
