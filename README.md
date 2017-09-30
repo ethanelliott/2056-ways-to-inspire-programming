@@ -1,16 +1,20 @@
 ![title](http://2056.ca/wp-content/uploads/2015/03/Untitled-2.png)
 
-# 2056 ways to inspire - `programming`
+<center>
+  <h1>
+  <code><i>Coding for Success</i></code>
+</h1>
+</center>
 
-## Presentation
+# Presentation
 
 Available for download. See above.
 
-## Sample code
+# Sample code
 
 Below are some examples of various code elements discussed during the presentation.
 
-### State Machine
+## State Machine
 
 ```c++
 void intakeStateMachine() {
@@ -44,7 +48,7 @@ void intakeStateMachine() {
     }
 ```
 
-## References and Other Links
+# References and Other Links
 
 Reference              | Link
 ---------------------- | -----------------------------------------------
