@@ -14,6 +14,15 @@ Available for download. See above.
 
 Below are some examples of various code elements discussed during the presentation.
 
+## Naming Conventions
+
+```c++
+    int intakeState;                  //Variable
+    const int INTAKE_OFF = 0;         //Constant
+    float kP = 0.01;                  //Member constants
+    void setIntakeSpeed(float speed); //Member functions
+```
+
 ## State Machine
 
 ```c++
@@ -46,6 +55,7 @@ void intakeStateMachine() {
             intakeState = INTAKE_OFF;
         }
     }
+`
 ```
 
 # References and Other Links
