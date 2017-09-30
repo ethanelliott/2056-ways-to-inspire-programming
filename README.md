@@ -21,6 +21,15 @@ Below are some examples of various code elements discussed during the presentati
     const int INTAKE_OFF = 0;         //Constant
     float kP = 0.01;                  //Member constants
     void setIntakeSpeed(float speed); //Member functions
+    intakeRoller = new VictorSP(INTAKE_ROLLER);  //Objects
+```
+
+## Wrapper functions
+
+```c++
+void setIntakeSpeed(float speed) {
+        intakeRoller->Set(LimitOutput(speed, 1.0));
+    }
 ```
 
 ## State Machine
