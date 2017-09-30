@@ -2,17 +2,11 @@
 
 # 2056 ways to inspire - `programming`
 
---------------------------------------------------------------------------------
-
 ## Presentation
-
---------------------------------------------------------------------------------
 
 Available for download. See above.
 
 ## Sample code
-
---------------------------------------------------------------------------------
 
 Below are some examples of various code elements discussed during the presentation.
 
@@ -51,8 +45,6 @@ void intakeStateMachine() {
 ```
 
 ## References and Other Links
-
---------------------------------------------------------------------------------
 
 Reference              | Link
 ---------------------- | -----------------------------------------------
