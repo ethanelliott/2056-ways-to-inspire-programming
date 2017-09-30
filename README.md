@@ -9,7 +9,7 @@
 # Presentation
 
 Available for download. See above.
-[Presentation](2056-ways-to-inspire-programming/Presentation.pptx)
+[Presentation](Presentation.pptx)
 
 # Sample code
 
